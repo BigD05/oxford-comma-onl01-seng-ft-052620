@@ -1,3 +1,3 @@
 def oxford_comma(array)
-array.slpit()
+return array
 end
